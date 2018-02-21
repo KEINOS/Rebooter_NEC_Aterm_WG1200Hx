@@ -2,7 +2,7 @@
 
 ## インストール
 
-1. ダウンロードするか、"rebooter.php"をコピーします。
+1. ダウンロードするか、"[rebooter.php](./blob/master/rebooter.php)"をコピーします。
 2. ルーターの IP アドレスを変更し保存します。("rebooter.php" 内の `$ip_router=` の値)
 3. アクセス権を `0755` に変更します。（`$ chmod 0755 ./rebooter.php`）
 
