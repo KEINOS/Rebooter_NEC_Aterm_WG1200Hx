@@ -6,6 +6,10 @@
 2. ルーターの IP アドレスを変更し保存します。("rebooter.php" 内の `$ip_router=` の値)
 3. アクセス権を `0755` に変更します。（`$ chmod 0755 ./rebooter.php`）
 
+## 設定
+
+`rebooter.php` 内のルーターのIPアドレスとパスワード（`$ip_router` と `$password` の値）を編集します。
+
 ## 使い方
 
 1. `$ php ./rebooter.php`
