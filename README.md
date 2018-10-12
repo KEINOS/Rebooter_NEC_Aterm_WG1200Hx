@@ -1,5 +1,9 @@
 # NEC Aterm ルーターを再起動するだけの PHP スクリプト
 
+macOS の標準の PHP で NEC Aterm（WG1200Hxシリーズ）を再起動するスクリプトです。
+
+[`bash` のシエル・スクリプト版](rebooter.sh)を利用した [macOS 用ルーター・再起動アプリの作り方](https://qiita.com/KEINOS/items/caf86f05607ff31ec886)は Qiita 記事をご覧ください。
+
 ## インストール
 
 1. ダウンロードするか、"[rebooter.php](./blob/master/rebooter.php)"をコピーします。
